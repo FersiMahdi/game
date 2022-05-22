@@ -10,13 +10,13 @@ get back their throne from the snakes.
 ## Functionalities:
 ---
 
--Jumping on enemies to eliminate them
--Implement collision detection
--Add incoming crates or moving enemies
--2 Players with separate controls and rotate
--Scrolling background
--Ability to collect power-ups and increase score
--Multiple levels
--Audio
--Double jump
--Separate health bars
+- Jumping on enemies to eliminate them
+- Implement collision detection
+- Add incoming crates or moving enemies
+- 2 Players with separate controls and rotate
+- Scrolling background
+- Ability to collect power-ups and increase score
+- Multiple levels
+- Audio
+- Double jump
+- Separate health bars
